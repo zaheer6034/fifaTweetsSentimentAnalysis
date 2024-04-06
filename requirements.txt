@@ -1,0 +1,3 @@
+emoji
+sentence_transformers
+pinecone-client
