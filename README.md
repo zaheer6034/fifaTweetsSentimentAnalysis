@@ -1,3 +1,9 @@
+
+> [!Note]
+> Github doesn't renders plotly graphs directly due to the interactive feature of plotly graphs so for full visualizations of graphs that are generated in this
+> notebook please use jupyter nbviewer:
+> [Link here](https://nbviewer.org/github/zaheer6034/fifaTweetsSentimentAnalysis/blob/main/fifa_2022.ipynb)
+
 # 🧙 **Intro**
 
 
@@ -6,6 +12,7 @@ Football is one of the most loved sports worldwide. This dataset contains around
 > <sub> Model Used for Sentiment analysis: cardiffnl/twitter-roberta-base-sentiment-latest <sub>
 
 > <sub> This model was trained on ~124 million tweets from January 2018 to December 2021.<sub>
+
 
 🌱🌱🌱
 
